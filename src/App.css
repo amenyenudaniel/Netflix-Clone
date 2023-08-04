@@ -1,0 +1,25 @@
+:root {
+  --red: #e50914;
+  --blue: #0071eb;
+  --ash: #333333;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+  }
+  p {
+    font-size: 1.1rem;
+  }
+}
