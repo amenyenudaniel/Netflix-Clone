@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import TVImage from "../../assets/tv.png";
+import TVImage from "../../assets/tv.webp";
 import Line from "../Line";
 const TV = () => {
   return (
